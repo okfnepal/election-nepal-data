@@ -1,12 +1,11 @@
 # election-nepal-data
 Collection of Election Nepal Project Data in CSV Format
-
+Now: accessible at [shubhajeet.github.io/election-nepal-data](shubhajeet.github.io/election-nepal-data)
 ## Repositories
 - [candidate-list/](candidate-list/)
 - [Demographics/](Demographics/)
 - [Expenditure/](Expenditure/)
 - [Geography/](Geography/)
-- [__pycache__/](__pycache__/)
 - [results/](results/)
 - [जिल्लागत रुपमा स्थानीय तह निर्वाचन २०७४ मा भाग लिने राजनीतिक दल/](जिल्लागत रुपमा स्थानीय तह निर्वाचन २०७४ मा भाग लिने राजनीतिक दल/)
 - [नयाँ स्थानीय संघीय संरचना र वडा विभाजन/](नयाँ स्थानीय संघीय संरचना र वडा विभाजन/)
