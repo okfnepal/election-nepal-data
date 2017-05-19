@@ -1,0 +1,10 @@
+# Demographics
+- [75 district polling place:center.csv](75 district polling place:center.csv)
+- [७५ जिल्लाको पुरुष, महिला र तेस्रो लिङी मतदाताको जम्मा संख्या.csv](७५ जिल्लाको पुरुष, महिला र तेस्रो लिङी मतदाताको जम्मा संख्या.csv)
+- [Candidates formatted Info with Age and Gender.csv](Candidates formatted Info with Age and Gender.csv)
+- [Total Male and female voters per districts.csv](Total Male and female voters per districts.csv)
+- [Total number of Candidates per districts.csv](Total number of Candidates per districts.csv)
+- [Total number of Local Bodies per districts.csv](Total number of Local Bodies per districts.csv)
+- [Total number of population and registered voters per districts.csv](Total number of population and registered voters per districts.csv)
+- [Total number of registered political parties per districts.csv](Total number of registered political parties per districts.csv)
+- [Total number of voters per districts.csv](Total number of voters per districts.csv)
