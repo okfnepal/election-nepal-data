@@ -1,7 +1,6 @@
 # election-nepal-data
-Collection of Election Nepal Project Data in CSV Format
-
-Now: accessible at [shubhajeet.github.io/election-nepal-data](https://shubhajeet.github.io/election-nepal-data)
+Collection of local election data in CSV format.
+Visit the portal: http://electionnepal.org
 
 ## Repositories
 - [candidate-list/](candidate-list/)
