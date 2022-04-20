@@ -1,0 +1,3 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+0,4,फेन्चोक छेप्तेन गुरुङ,पुरुष,43,नेपाली काँग्रेस,मुस्तांग,बाह्गाउँ मुक्तिक्षेत्र गाउँपालिका,,अध्यक्ष,33155,654,E,1
+1,4,रमेश गुरुङ,पुरुष,28,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),मुस्तांग,बाह्गाउँ मुक्तिक्षेत्र गाउँपालिका,,अध्यक्ष,33156,638,,2

@@ -1,0 +1,3 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+0,4,कमला तिलिजा,महिला,29,नेपाली काँग्रेस,म्याग्दी,रघुगंगा गाउँपालिका,,उपाध्यक्ष,33777,3847,E,1
+2,4,हरि बहादुर भण्‍डारी,पुरुष,33,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),म्याग्दी,रघुगंगा गाउँपालिका,,उपाध्यक्ष,33778,2662,,2

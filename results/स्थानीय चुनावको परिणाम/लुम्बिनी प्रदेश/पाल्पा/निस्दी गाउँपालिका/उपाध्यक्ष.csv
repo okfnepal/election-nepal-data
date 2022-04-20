@@ -1,0 +1,3 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+1,5,"रिता कुमारी खनाल,अर्याल",महिला,43,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),पाल्पा,निस्दी गाउँपालिका,,उपाध्यक्ष,26823,5365,E,1
+2,5,बल बहादुर नेपाली,पुरुष,30,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),पाल्पा,निस्दी गाउँपालिका,,उपाध्यक्ष,26824,2524,,2

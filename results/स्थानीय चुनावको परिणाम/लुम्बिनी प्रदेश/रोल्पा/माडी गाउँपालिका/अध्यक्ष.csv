@@ -1,0 +1,4 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+2,5,नन्द बहादुर पुन,पुरुष,47,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),रोल्पा,माडी गाउँपालिका,,अध्यक्ष,37311,3182,E,1
+0,5,गोपाल घर्ती,पुरुष,47,नेपाली काँग्रेस,रोल्पा,माडी गाउँपालिका,,अध्यक्ष,37312,2621,,2
+84,5,महतम कुमार घर्तीमगर,पुरुष,34,स्वतन्त्र,रोल्पा,माडी गाउँपालिका,,अध्यक्ष,37313,8,,3

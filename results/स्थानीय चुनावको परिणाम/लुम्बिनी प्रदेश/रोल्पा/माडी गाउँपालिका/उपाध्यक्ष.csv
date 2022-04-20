@@ -1,0 +1,3 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+2,5,धनीकला घर्ती. बुढामगर,महिला,45,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),रोल्पा,माडी गाउँपालिका,,उपाध्यक्ष,37314,3251,E,1
+1,5,प्रेम बहादुर घर्तीमगर,पुरुष,39,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),रोल्पा,माडी गाउँपालिका,,उपाध्यक्ष,37315,2689,,2

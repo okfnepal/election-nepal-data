@@ -1,0 +1,3 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+0,4,केशमाया मगर,महिला,34,नेपाली काँग्रेस,म्याग्दी,अन्नपूर्ण गाउँपालिका,,उपाध्यक्ष,33253,3245,E,1
+1,4,दुर्गादेवी पाइजा घिमिरे,महिला,47,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),म्याग्दी,अन्नपूर्ण गाउँपालिका,,उपाध्यक्ष,33254,3186,,2

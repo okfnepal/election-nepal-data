@@ -1,0 +1,3 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+1,7,समिता कुमारी महर( साउद),महिला,26,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),अछाम,मेल्लेख गाउँपालिका,,उपाध्यक्ष,48288,4002,,2
+0,7,धन बहादुर शाही,पुरुष,49,नेपाली काँग्रेस,अछाम,मेल्लेख गाउँपालिका,,उपाध्यक्ष,48289,4408,E,1

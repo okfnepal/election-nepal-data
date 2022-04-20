@@ -1,0 +1,3 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+4,1,राम सिं राई,पुरुष,49,"संघीय समाजवादी फोरम, नेपाल ",भोजपुर,ट्याम्केमैयुम गाउँपालिका,,अध्यक्ष,9600,2632,,2
+1,1,ध्रुवराज राई,पुरुष,35,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),भोजपुर,ट्याम्केमैयुम गाउँपालिका,,अध्यक्ष,9601,2780,E,1

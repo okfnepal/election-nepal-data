@@ -1,0 +1,3 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+84,6,सोनाम किन्जोम गुरुङ,महिला,39,स्वतन्त्र,डोल्पा,छार्का ताङसोङ गाउँपालिका,,उपाध्यक्ष,37821,209,,2
+1,6,छिरिङ दिहिक गुरुङ,महिला,41,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),डोल्पा,छार्का ताङसोङ गाउँपालिका,,उपाध्यक्ष,37822,356,E,1

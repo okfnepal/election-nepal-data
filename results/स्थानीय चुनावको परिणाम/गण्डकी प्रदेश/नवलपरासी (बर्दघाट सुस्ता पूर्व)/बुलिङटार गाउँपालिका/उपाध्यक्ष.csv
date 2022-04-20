@@ -1,0 +1,3 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+0,4,मैना कामी,महिला,57,नेपाली काँग्रेस,नवलपरासी (बर्दघाट सुस्ता पूर्व),बुलिङटार गाउँपालिका,,उपाध्यक्ष,32410,4662,E,1
+1,4,पार्वती थापा,महिला,32,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),नवलपरासी (बर्दघाट सुस्ता पूर्व),बुलिङटार गाउँपालिका,,उपाध्यक्ष,32411,2547,,2

@@ -1,0 +1,3 @@
+PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
+2,4,पुष्‍पराज खनाल,पुरुष,38,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),लमजुंग,रार्इनास नगरपालिका,,उपप्रमुख,26408,3847,,2
+0,4,धन कुमारी गुरुङ,महिला,56,नेपाली काँग्रेस,लमजुंग,रार्इनास नगरपालिका,,उपप्रमुख,26409,4100,E,1
