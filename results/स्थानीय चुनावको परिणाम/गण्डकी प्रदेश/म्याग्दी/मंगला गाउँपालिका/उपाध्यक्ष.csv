@@ -1,3 +1,3 @@
-PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
-0,4,हुमादेवी फगामी,महिला,59,नेपाली काँग्रेस,म्याग्दी,मंगला गाउँपालिका,,उपाध्यक्ष,33588,1967,,2
-1,4,सृजना के.सी,महिला,30,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),म्याग्दी,मंगला गाउँपालिका,,उपाध्यक्ष,33589,3702,E,1
+SerialNo,PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,TotalVotesReceived,EStatus,Rank
+33588,0,4,हुमादेवी फगामी,महिला,59,नेपाली काँग्रेस,म्याग्दी,मंगला गाउँपालिका,,उपाध्यक्ष,1967,,2
+33589,1,4,सृजना के.सी,महिला,30,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),म्याग्दी,मंगला गाउँपालिका,,उपाध्यक्ष,3702,E,1

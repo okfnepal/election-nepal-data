@@ -1,3 +1,3 @@
-PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
-1,4,ढिकि गुरुङ,महिला,46,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),मुस्तांग,बाह्गाउँ मुक्तिक्षेत्र गाउँपालिका,,उपाध्यक्ष,33157,645,E,1
-0,4,डोका गुरुङ,महिला,34,नेपाली काँग्रेस,मुस्तांग,बाह्गाउँ मुक्तिक्षेत्र गाउँपालिका,,उपाध्यक्ष,33158,628,,2
+SerialNo,PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,TotalVotesReceived,EStatus,Rank
+33157,1,4,ढिकि गुरुङ,महिला,46,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),मुस्तांग,बाह्गाउँ मुक्तिक्षेत्र गाउँपालिका,,उपाध्यक्ष,645,E,1
+33158,0,4,डोका गुरुङ,महिला,34,नेपाली काँग्रेस,मुस्तांग,बाह्गाउँ मुक्तिक्षेत्र गाउँपालिका,,उपाध्यक्ष,628,,2

@@ -1,0 +1,3 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,SCConstID,TotalVotesReceived,EStatus,Rank
+3121,7,लिलाधर भट्ट,पुरुष,40,नेपाल कम्युनिष्ट पार्टी (एमाले),बैतडी,1,2,20318,Elected,1
+3122,7,गणेश चन्द,पुरुष,61,राष्ट्रिय प्रजातन्त्र पार्टी,बैतडी,1,2,15247,,2

@@ -1,2 +1,2 @@
-PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
-84,6,धावा सम्डुक गुरुङ,पुरुष,37,स्वतन्त्र,डोल्पा,शे फोक्सुन्डो गाउँपालिका,,उपाध्यक्ष,38334,0,E,1
+SerialNo,PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,TotalVotesReceived,EStatus,Rank
+38334,84,6,धावा सम्डुक गुरुङ,पुरुष,37,स्वतन्त्र,डोल्पा,शे फोक्सुन्डो गाउँपालिका,,उपाध्यक्ष,0,E,1

@@ -1,4 +1,4 @@
-PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
-9,4,दिल कुमारी पुन,महिला,42,राष्ट्रिय जनमोर्चा ,बागलुङ,वरेङ गाउँपालिका,,उपाध्यक्ष,35166,2964,E,1
-0,4,बिष्‍णु (बस्नेत) खत्री,महिला,50,नेपाली काँग्रेस,बागलुङ,वरेङ गाउँपालिका,,उपाध्यक्ष,35167,2074,,2
-84,4,चिनी थापा काला,महिला,38,स्वतन्त्र,बागलुङ,वरेङ गाउँपालिका,,उपाध्यक्ष,35168,156,,3
+SerialNo,PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,TotalVotesReceived,EStatus,Rank
+35166,9,4,दिल कुमारी पुन,महिला,42,राष्ट्रिय जनमोर्चा ,बागलुङ,वरेङ गाउँपालिका,,उपाध्यक्ष,2964,E,1
+35167,0,4,बिष्‍णु (बस्नेत) खत्री,महिला,50,नेपाली काँग्रेस,बागलुङ,वरेङ गाउँपालिका,,उपाध्यक्ष,2074,,2
+35168,84,4,चिनी थापा काला,महिला,38,स्वतन्त्र,बागलुङ,वरेङ गाउँपालिका,,उपाध्यक्ष,156,,3

@@ -1,0 +1,4 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,SCConstID,TotalVotesReceived,EStatus,Rank
+2656,4,कृष्ण थापा,पुरुष,56,राष्ट्रिय जनमोर्चा,बागलुङ,1,2,15636,Elected,1
+2657,4,प्रकाश शर्मा पौडेल,पुरुष,59,नेपाली काँग्रेस,बागलुङ,1,2,9094,,2
+2658,4,युनिस मिया,पुरुष,36,नयाँ शक्ति पार्टी नेपाल,बागलुङ,1,2,310,,3

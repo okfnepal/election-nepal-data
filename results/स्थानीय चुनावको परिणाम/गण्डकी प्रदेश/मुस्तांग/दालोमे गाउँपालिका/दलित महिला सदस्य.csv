@@ -1,2 +1,2 @@
-PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
-1,4,फुल माया विक,महिला,55,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),मुस्तांग,दालोमे गाउँपालिका,3,दलित महिला सदस्य,33144,0,E,1
+SerialNo,PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,TotalVotesReceived,EStatus,Rank
+33144,1,4,फुल माया विक,महिला,55,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),मुस्तांग,दालोमे गाउँपालिका,3,दलित महिला सदस्य,0,E,1

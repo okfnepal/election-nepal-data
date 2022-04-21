@@ -1,2 +1,2 @@
-PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
-84,4,कोन्जो तेन्जीङ लामा,पुरुष,42,स्वतन्त्र,मनाङ्ग,नारफू गाउँपालिका,,उपाध्यक्ष,25561,0,E,1
+SerialNo,PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,TotalVotesReceived,EStatus,Rank
+25561,84,4,कोन्जो तेन्जीङ लामा,पुरुष,42,स्वतन्त्र,मनाङ्ग,नारफू गाउँपालिका,,उपाध्यक्ष,0,E,1

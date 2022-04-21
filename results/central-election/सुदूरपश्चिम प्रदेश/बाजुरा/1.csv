@@ -1,0 +1,4 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,TotalVotesReceived,EStatus,Rank
+1807,7,लाल बहादुर थापा,पुरुष,50,नेपाल कम्युनिष्ट पार्टी (एमाले),बाजुरा,1,28065,Elected,1
+1808,7,कवि राज पण्डित,पुरुष,48,नेपाली काँग्रेस,बाजुरा,1,23181,,2
+1809,7,दिलीप कुमार शाही,पुरुष,42,नयाँ शक्ति पार्टी नेपाल,बाजुरा,1,465,,3

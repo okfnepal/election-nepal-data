@@ -1,0 +1,4 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,SCConstID,TotalVotesReceived,EStatus,Rank
+2811,6,दल रावल,पुरुष,46,नेपाल कम्युनिष्ट पार्टी (एमाले),हुम्ला,1,1,7158,Elected,1
+2812,6,ठान बहादुर रोकाया,पुरुष,38,नेपाली काँग्रेस,हुम्ला,1,1,4811,,2
+2813,6,धर्म राज ऐडी,पुरुष,38,नयाँ शक्ति पार्टी नेपाल,हुम्ला,1,1,167,,3

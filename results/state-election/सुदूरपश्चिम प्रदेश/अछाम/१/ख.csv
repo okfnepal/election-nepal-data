@@ -1,0 +1,4 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,SCConstID,TotalVotesReceived,EStatus,Rank
+3000,7,झपट बहादुर बोहरा,पुरुष,49,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),अछाम,1,2,13937,Elected,1
+3001,7,टेक बहादुर साउँद,पुरुष,46,नेपाली काँग्रेस,अछाम,1,2,8340,,2
+3002,7,कृष्ण बहादुर खत्री,पुरुष,44,देशभक्त जनगणतान्त्रिक मोर्चा नेपाल,अछाम,1,2,185,,3

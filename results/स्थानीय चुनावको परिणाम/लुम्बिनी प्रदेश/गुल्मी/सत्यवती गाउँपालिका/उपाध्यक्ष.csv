@@ -1,3 +1,3 @@
-PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
-1,5,सुर्वण शाही(शेरचन),महिला,55,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),गुल्मी,सत्यवती गाउँपालिका,,उपाध्यक्ष,26360,5449,E,1
-0,5,टोपला देवी राहादी,महिला,45,नेपाली काँग्रेस,गुल्मी,सत्यवती गाउँपालिका,,उपाध्यक्ष,26361,4955,,2
+SerialNo,PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,TotalVotesReceived,EStatus,Rank
+26360,1,5,सुर्वण शाही(शेरचन),महिला,55,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),गुल्मी,सत्यवती गाउँपालिका,,उपाध्यक्ष,5449,E,1
+26361,0,5,टोपला देवी राहादी,महिला,45,नेपाली काँग्रेस,गुल्मी,सत्यवती गाउँपालिका,,उपाध्यक्ष,4955,,2

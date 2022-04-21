@@ -1,0 +1,5 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,SCConstID,TotalVotesReceived,EStatus,Rank
+2990,7,बल देव रेग्‍मी,पुरुष,39,नेपाल कम्युनिष्ट पार्टी (एमाले),बाजुरा,1,1,9840,Elected,1
+2991,7,जनक राज गिरी,पुरुष,51,नेपाली काँग्रेस,बाजुरा,1,1,8301,,2
+2992,7,नरेन्द्र बि क,पुरुष,32,नयाँ शक्ति पार्टी नेपाल,बाजुरा,1,1,177,,3
+2993,7,टिका राज गिरी,पुरुष,29,स्वतन्त्र,बाजुरा,1,1,62,,4

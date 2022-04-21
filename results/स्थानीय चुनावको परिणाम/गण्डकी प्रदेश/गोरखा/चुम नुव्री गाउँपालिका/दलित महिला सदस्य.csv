@@ -1,3 +1,3 @@
-PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
-2,4,लाक्‍पा डिकी वि.क.,महिला,44,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),गोरखा,चुम नुव्री गाउँपालिका,2,दलित महिला सदस्य,24419,0,E,1
-2,4,फुतानी कमीनी,महिला,49,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),गोरखा,चुम नुव्री गाउँपालिका,3,दलित महिला सदस्य,24420,0,E,1
+SerialNo,PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,TotalVotesReceived,EStatus,Rank
+24419,2,4,लाक्‍पा डिकी वि.क.,महिला,44,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),गोरखा,चुम नुव्री गाउँपालिका,2,दलित महिला सदस्य,0,E,1
+24420,2,4,फुतानी कमीनी,महिला,49,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),गोरखा,चुम नुव्री गाउँपालिका,3,दलित महिला सदस्य,0,E,1

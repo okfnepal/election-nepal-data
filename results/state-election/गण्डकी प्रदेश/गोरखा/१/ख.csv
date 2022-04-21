@@ -1,0 +1,4 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,SCConstID,TotalVotesReceived,EStatus,Rank
+2093,4,राम शरण वस्नेत,पुरुष,55,नेपाल कम्युनिष्ट पार्टी (एमाले),गोरखा,1,2,16656,Elected,1
+2094,4,राजेन्द्र बजगाई,पुरुष,44,नेपाली काँग्रेस,गोरखा,1,2,13001,,2
+2095,4,प्रसाद गुरुङ,पुरुष,46,मंगोल नेशनल अर्गनाइजेसन,गोरखा,1,2,138,,3

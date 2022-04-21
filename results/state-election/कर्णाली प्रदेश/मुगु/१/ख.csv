@@ -1,0 +1,5 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,SCConstID,TotalVotesReceived,EStatus,Rank
+2786,6,चन्द्र बहादुर शाही,पुरुष,56,नेपाल कम्युनिष्ट पार्टी (एमाले),मुगु,1,2,6845,Elected,1
+2787,6,खड्ग शाही,पुरुष,50,नेपाली काँग्रेस,मुगु,1,2,4612,,2
+2788,6,धन टमटा,पुरुष,35,जनसमाजवादी पार्टी नेपाल,मुगु,1,2,253,,3
+2789,6,सुरवीर शाही,पुरुष,31,नयाँ शक्ति पार्टी नेपाल,मुगु,1,2,70,,4

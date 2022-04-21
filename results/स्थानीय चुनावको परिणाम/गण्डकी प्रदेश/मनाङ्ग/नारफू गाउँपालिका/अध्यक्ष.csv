@@ -1,2 +1,2 @@
-PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
-0,4,मीङमा छिरीङ लामा,पुरुष,45,नेपाली काँग्रेस,मनाङ्ग,नारफू गाउँपालिका,,अध्यक्ष,25560,0,E,1
+SerialNo,PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,TotalVotesReceived,EStatus,Rank
+25560,0,4,मीङमा छिरीङ लामा,पुरुष,45,नेपाली काँग्रेस,मनाङ्ग,नारफू गाउँपालिका,,अध्यक्ष,0,E,1

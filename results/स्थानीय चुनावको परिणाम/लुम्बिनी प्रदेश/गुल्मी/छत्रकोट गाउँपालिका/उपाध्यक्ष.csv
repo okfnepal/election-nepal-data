@@ -1,3 +1,3 @@
-PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,SerialNo,TotalVotesReceived,EStatus,Rank
-1,5,नर्मदा भण्‍डारी,महिला,48,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),गुल्मी,छत्रकोट गाउँपालिका,,उपाध्यक्ष,25505,5476,E,1
-2,5,राम प्रसाद पाण्डेय,पुरुष,38,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),गुल्मी,छत्रकोट गाउँपालिका,,उपाध्यक्ष,25506,4726,,2
+SerialNo,PartyID,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,LocalBodyName,WardNo,PostName,TotalVotesReceived,EStatus,Rank
+25505,1,5,नर्मदा भण्‍डारी,महिला,48,नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी-लेनिनवादी),गुल्मी,छत्रकोट गाउँपालिका,,उपाध्यक्ष,5476,E,1
+25506,2,5,राम प्रसाद पाण्डेय,पुरुष,38,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),गुल्मी,छत्रकोट गाउँपालिका,,उपाध्यक्ष,4726,,2
