@@ -1,0 +1,4 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,TotalVotesReceived,EStatus,Rank
+1812,7,यज्ञ बहादुर बोगटी,पुरुष,41,नेपाल कम्युनिष्ट पार्टी (एमाले),अछाम,2,21965,Elected,1
+1813,7,पुष्प बहादुर शाह,पुरुष,56,नेपाली काँग्रेस,अछाम,2,19106,,2
+1814,7,झंकर बहादुर शाही,पुरुष,35,नेपाल मजदुर किसान पार्टी,अछाम,2,173,,3

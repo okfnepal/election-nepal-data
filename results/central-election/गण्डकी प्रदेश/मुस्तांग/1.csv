@@ -1,0 +1,3 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,TotalVotesReceived,EStatus,Rank
+1591,4,प्रेम प्रसाद तुलाचन,पुरुष,55,नेपाल कम्युनिष्ट पार्टी (एमाले),मुस्तांग,1,3544,Elected,1
+1592,4,रोमी गौचन थकाली,पुरुष,58,नेपाली काँग्रेस,मुस्तांग,1,3181,,2

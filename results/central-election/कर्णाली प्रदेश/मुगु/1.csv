@@ -1,0 +1,4 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,TotalVotesReceived,EStatus,Rank
+1688,6,गोपाल बहादुर बम,पुरुष,46,नेपाल कम्युनिष्ट पार्टी (एमाले),मुगु,1,13034,Elected,1
+1689,6,हस्‍त बहादुर मल्‍ल,पुरुष,62,नेपाली काँग्रेस,मुगु,1,9861,,2
+1690,6,राज बहादुर भाम,पुरुष,54,नयाँ शक्ति पार्टी नेपाल,मुगु,1,99,,3

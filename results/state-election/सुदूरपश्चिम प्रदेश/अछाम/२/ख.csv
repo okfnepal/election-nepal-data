@@ -1,0 +1,3 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,SCConstID,TotalVotesReceived,EStatus,Rank
+3007,7,बल बहादुर सोडारी,पुरुष,63,नेपाल कम्युनिष्ट पार्टी (एमाले),अछाम,2,2,10816,Elected,1
+3008,7,बल बहादुर कुंवर,पुरुष,56,नेपाली काँग्रेस,अछाम,2,2,9837,,2

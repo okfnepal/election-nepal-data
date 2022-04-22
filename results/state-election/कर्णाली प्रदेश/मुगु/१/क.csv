@@ -1,0 +1,4 @@
+SerialNo,StateID,CandidateName,Gender,Age,PoliticalPartyName,DistrictName,CenterConstID,SCConstID,TotalVotesReceived,EStatus,Rank
+2783,6,दान सिंह परियार,पुरुष,31,नेपाल कम्युनिष्ट पार्टी (एमाले),मुगु,1,1,5653,Elected,1
+2784,6,तिलक बहादुर मल्ल,पुरुष,41,नेपाली काँग्रेस,मुगु,1,1,5299,,2
+2785,6,हिरमति बि.क.,महिला,36,नयाँ शक्ति पार्टी नेपाल,मुगु,1,1,68,,3
